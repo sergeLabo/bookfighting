@@ -1,0 +1,24 @@
+Book Fighting
+
+Réalisé avec blender, twisted, txosc, python.
+
+Visitez:
+    http://wiki.labomedia.org/
+
+    http://labomedia.org/
+
+    http://openatelier.labomedia.org/
+
+Aide:
+    - Ce jeu ne tourne que sur Linux : twisted est dans Ubuntu.
+        Quelque commandes système ne sont écrites que pour Linux
+    - Blender 2.62 ou plus
+    - twisted à http://twistedmatrix.com/trac/
+
+Installation:
+    Sur ubuntu 12.04
+
+     sudo apt-get install blender
+
+Lancement du jeu:
+Rendre excécutable le fichier , puis double-clic dessus.

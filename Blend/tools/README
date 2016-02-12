@@ -1,0 +1,9 @@
+Ce répertoire contient des outils très pratiques pour les jeux créés dans Blender.
+
+Liste des outils:
+    - Des Tempo qui sont en fait des compteurs
+    - Envoi et réception en OSC en UDP
+    - Affichage en terminal pour debogguer
+
+La définition des chemins de recherche de module python est toujours un chausse-trappe
+et parfois ça bug
